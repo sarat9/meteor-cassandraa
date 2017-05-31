@@ -1,0 +1,16 @@
+
+<body>
+  {{> hello}}
+
+</body>
+
+<template name="hello">
+  <form class="new-task">
+        <input type="text" name="userid" placeholder="Type Userid" />
+        <input type="text" name="relevance" placeholder="Type relevance" />
+        <input type="text" name="postcontent" placeholder="Type postcontent" />
+        <input type="submit" name="submit"  />
+
+  </form>
+  <p>{{showtext}}</p>
+</template>
