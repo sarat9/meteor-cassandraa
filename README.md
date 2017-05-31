@@ -1,6 +1,9 @@
 # meteor-cassandraa
 Using Meteor JS with Cassandra for Database Operations instead of MongoDB
 
+
+Here is a Sample App of Meteor JS and Cassandra connection using Meteor Methods to expose functions on the client to create, read, update and delete records in Cassandra.
+
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -21,6 +24,13 @@ meteor
 
  App running at: http://localhost:3000/
  
+ 
+ 
+ <b> Requirement: </b>
+ 
+ It needs the cassandra app running in your local at host 127.0.0.1:9042.
+ 
+ If you are trying to connect to a remote host please edit the host accordingly.
  
 ------------------------------------------------------------------------------------------------------------------------------------------
 
