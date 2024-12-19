@@ -61,3 +61,6 @@ Reference:
 https://medium.com/@guyavraham/connecting-meteor-to-cassandra-for-a-news-feed-ef56488bc231
 https://stackoverflow.com/questions/21679103/meteor-js-possible-with-cassandra-instead-of-mongdb
 https://stackoverflow.com/questions/12817891/meteor-and-a-different-sort-of-database
+
+
+<a href="https://www.buymeacoffee.com/sarat" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
